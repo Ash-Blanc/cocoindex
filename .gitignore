@@ -24,3 +24,5 @@ examples/**/eval_*
 
 # mypy daemon environment
 .dmypy.json
+config.bat
+node_modules
