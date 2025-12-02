@@ -19,8 +19,9 @@ dist/
 # Output of `cocoindex eval`
 examples/**/eval_*
 
-/.vscode
 /*.session.sql
 
 # mypy daemon environment
 .dmypy.json
+config.bat
+node_modules
